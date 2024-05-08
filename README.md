@@ -32,9 +32,13 @@ Path planning helps to improve the printed surface quality, shape accuracy and i
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/baef8515-67d7-4c96-accc-4ee88035c9e7)
 ●	All the processes related to pre-processing will be shown on the screen.
+
 ●	Select CAD file preparation from the visible list.
+
 ●	When the first process is selected then it will open in the blank space in the left side of the screen.
+
 ●	Select the options of process of pre-processing in the sequence in which they are shown.
+
 ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 ## OUTPUT:
 ![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
